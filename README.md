@@ -14,6 +14,7 @@
 
 </div>
 
+
 ---
 
 ```markdown
@@ -41,11 +42,12 @@ I'm also an AI engineer. So when your product is technical, I don't need a week 
 
 <img src="assets/stats.svg" width="100%" alt="5+ years writing, 10.8K Medium followers, 8.1M impressions, 766K X views, 140+ articles" />
 
----
+<img src="assets/h-receipts.svg" width="100%" alt="The receipts" />
 
-## 🧾 The receipts
+<img src="assets/reach.svg" width="100%" alt="Reach: 766K views on an X post, 560K on a Towards AI article, 360K+ on GeeksforGeeks" />
 
-> Numbers don't lie. Here's some of the work people actually read.
+<details>
+<summary><b>👆 Click to open the links to every piece</b></summary>
 
 | | Piece | Published in | Reach |
 |:---:|:---|:---|:---|
@@ -55,50 +57,15 @@ I'm also an AI engineer. So when your product is technical, I don't need a week 
 | 🧩 | [**What is an API? A Simple Guide for Beginners**](https://medium.com/towards-artificial-intelligence/what-is-an-api-a-simple-guide-for-beginners-with-real-examples-16b3be032d1f) | Towards AI | `16.4K views` · `7.7K reads` |
 | 👀 | [**Something Crazy Is Happening Inside Google**](https://medium.com/illumination/something-crazy-is-happening-inside-google-e6b40881ba0a) | ILLUMINATION | `6.2K views` · `3.7K reads` |
 
+</details>
+
 <img src="assets/marquee.svg" width="100%" alt="Published in Towards AI, ILLUMINATION, Activated Thinker, Pen With Paper, Technology Hits, GeeksforGeeks. Worked with Flowstep, BequestCap, Mercury Intelligence, Superteams.ai" />
 
 ---
 
-## 🛠️ What I write for you
+<img src="assets/h-services.svg" width="100%" alt="What I write for you" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ Ghostwriting & thought leadership
-Posts on LinkedIn and X, in your voice.
-People read it and think, *"that's so them."*
-
-</td>
-<td width="50%" valign="top">
-
-### 💸 Copywriting
-Landing pages, launch posts and emails.
-The goal is simple. More sign-ups.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Blogs
-SEO articles for your company blog.
-Written to rank, and written to be read till the end.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & tech content
-LLMs, agents and dev tools, explained right.
-I build this stuff, so I don't get it wrong.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Pick a service, click to peek
+<img src="assets/services.svg" width="100%" alt="Ghostwriting, copywriting, SEO blogs, AI and tech content" />
 
 <details><summary><b>🎙️ Ghostwriting</b>: what a week looks like</summary>
 
@@ -113,10 +80,6 @@ Keyword-researched, structured, written to rank and to be read till the end. Pas
 I've shipped RAG systems and LLM apps, so I explain agents, vector search and dev tools without hand-waving.
 </details>
 
----
-
-## 🧠 How I write
-
 ```diff
 + The title decides the click.
 + The intro decides the stay.
@@ -124,17 +87,15 @@ I've shipped RAG systems and LLM apps, so I explain agents, vector search and de
 - Everything else is decoration.
 ```
 
-**How we work together**
+---
 
-```
-01  We talk   →  30 minutes. I learn how you think and how you speak.
-02  I write   →  You get the first draft within a week.
-03  You post  →  We keep going. I keep what works and drop what doesn't.
-```
+<img src="assets/h-process.svg" width="100%" alt="How we work together" />
+
+<img src="assets/process.svg" width="100%" alt="1. We talk, 2. I write, 3. You post" />
 
 ---
 
-## 🎤 Beyond the page
+<img src="assets/h-beyond.svg" width="100%" alt="Beyond the page" />
 
 - 🎧 Talked about writing on **[Aastha Kochar's podcast](https://www.youtube.com/watch?v=ecjBULw0Fy8)**. 28K views and counting.
 - 🧑‍🏫 I mentor content writers. Here's what they say after a call:
@@ -147,7 +108,7 @@ I've shipped RAG systems and LLM apps, so I explain agents, vector search and de
 
 ---
 
-## ⚙️ The other half: AI engineering
+<img src="assets/h-eng.svg" width="100%" alt="The other half: AI engineering" />
 
 <details>
 <summary><b>Yes, I write code too. Click to open the engineering side →</b></summary>
@@ -190,6 +151,8 @@ Automated GenAI image workflows with DSPy prompt optimization.
 
 ---
 
+<img src="assets/h-contact.svg" width="100%" alt="Let's talk" />
+
 <div align="center">
 
 <picture>
@@ -197,11 +160,8 @@ Automated GenAI image workflows with DSPy prompt optimization.
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ShreyasNaphad/ShreyasNaphad/output/snake.svg" />
 </picture>
 
-## 📬 Got something to say? Let's get it read.
+<a href="mailto:shreyasnaphad@gmail.com"><img src="assets/cta.svg" width="100%" alt="Got something to say? Let's get it read. shreyasnaphad@gmail.com" /></a>
 
-Tell me about your company and what you want from your content.
-
-<a href="mailto:shreyasnaphad@gmail.com"><img src="https://img.shields.io/badge/✉️_shreyasnaphad@gmail.com-F59E0B?style=for-the-badge" alt="Email me" /></a>
 <a href="https://www.linkedin.com/in/shreyas-naphad-5504ba214/"><img src="https://img.shields.io/badge/Book_a_call_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
@@ -209,5 +169,3 @@ Tell me about your company and what you want from your content.
 <img src="https://komarev.com/ghpvc/?username=ShreyasNaphad&style=flat-square&color=F59E0B&label=profile+readers" alt="Profile views" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:1f2937,100:0d1117&height=110&section=footer" width="100%" alt="" />

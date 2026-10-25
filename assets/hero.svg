@@ -25,7 +25,7 @@
     <circle r="70" fill="#6366f1"><animate attributeName="cx" values="780;200;780" dur="17s" repeatCount="indefinite"/><animate attributeName="cy" values="250;40;250" dur="13s" repeatCount="indefinite"/></circle>
   </g>
   <rect width="900" height="300" rx="18" fill="#0d1117" opacity=".45"/>
-  <text x="40" y="52" class="mono l1" font-size="14" fill="#9ca3af">~/shreyas $ cat draft.md</text>
+  <text x="40" y="52" class="mono l1" font-size="14" fill="#9ca3af">shreyas.naphad / writer + ai engineer</text>
   <text x="40" y="115" class="serif l1" font-size="46" fill="#ffffff">You have the ideas.</text>
   <g clip-path="url(#type)"><text x="40" y="200" class="serif" font-size="56" font-style="italic" fill="url(#gold)">I make people read them.</text></g>
   <rect x="40" y="165" width="3" height="42" fill="#f59e0b" class="cur"><animate attributeName="x" from="40" to="660" begin="1.6s" dur="2.2s" fill="freeze"/></rect>

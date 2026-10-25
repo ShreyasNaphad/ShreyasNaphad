@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%"><style>
+.m{font-family:'JetBrains Mono',Consolas,monospace}.s{font-family:Georgia,'Times New Roman',serif}
+.card{fill:#161b22;stroke:#30363d}
+</style><style>@keyframes f{50%{transform:translateY(-6px)}}</style><g style="animation:f 5s ease-in-out 0.0s infinite"><rect class="card" x="5" y="8" width="430" height="132" rx="16"/>
+<rect x="5" y="8" width="6" height="132" rx="3" fill="#f59e0b"><animate attributeName="opacity" values=".4;1;.4" dur="3s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text class="m" x="30" y="44" font-size="13" fill="#f59e0b">01</text>
+<text class="s" x="30" y="78" font-size="22" fill="#fff">Ghostwriting &amp; thought leadership</text>
+<text class="m" x="30" y="104" font-size="12.5" fill="#9ca3af">LinkedIn + X posts in your voice.</text>
+<text class="m" x="30" y="123" font-size="12.5" fill="#9ca3af">People read it and think: that's so them.</text></g><g style="animation:f 5s ease-in-out 0.9s infinite"><rect class="card" x="465" y="8" width="430" height="132" rx="16"/>
+<rect x="465" y="8" width="6" height="132" rx="3" fill="#f59e0b"><animate attributeName="opacity" values=".4;1;.4" dur="3s" begin="0.9s" repeatCount="indefinite"/></rect>
+<text class="m" x="490" y="44" font-size="13" fill="#f59e0b">02</text>
+<text class="s" x="490" y="78" font-size="22" fill="#fff">Copywriting</text>
+<text class="m" x="490" y="104" font-size="12.5" fill="#9ca3af">Landing pages, launch posts, emails.</text>
+<text class="m" x="490" y="123" font-size="12.5" fill="#9ca3af">The goal is simple. More sign-ups.</text></g><g style="animation:f 5s ease-in-out 1.8s infinite"><rect class="card" x="5" y="158" width="430" height="132" rx="16"/>
+<rect x="5" y="158" width="6" height="132" rx="3" fill="#f59e0b"><animate attributeName="opacity" values=".4;1;.4" dur="3s" begin="1.8s" repeatCount="indefinite"/></rect>
+<text class="m" x="30" y="194" font-size="13" fill="#f59e0b">03</text>
+<text class="s" x="30" y="228" font-size="22" fill="#fff">SEO blogs</text>
+<text class="m" x="30" y="254" font-size="12.5" fill="#9ca3af">Written to rank, and written to be</text>
+<text class="m" x="30" y="273" font-size="12.5" fill="#9ca3af">read all the way to the last line.</text></g><g style="animation:f 5s ease-in-out 2.7s infinite"><rect class="card" x="465" y="158" width="430" height="132" rx="16"/>
+<rect x="465" y="158" width="6" height="132" rx="3" fill="#f59e0b"><animate attributeName="opacity" values=".4;1;.4" dur="3s" begin="2.7s" repeatCount="indefinite"/></rect>
+<text class="m" x="490" y="194" font-size="13" fill="#f59e0b">04</text>
+<text class="s" x="490" y="228" font-size="22" fill="#fff">AI &amp; tech content</text>
+<text class="m" x="490" y="254" font-size="12.5" fill="#9ca3af">LLMs, agents, dev tools, explained</text>
+<text class="m" x="490" y="273" font-size="12.5" fill="#9ca3af">right. I build this stuff myself.</text></g></svg>

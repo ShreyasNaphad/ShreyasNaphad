@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="100%"><style>
+.m{font-family:'JetBrains Mono',Consolas,monospace}.s{font-family:Georgia,'Times New Roman',serif}
+.card{fill:#161b22;stroke:#30363d}
+</style><style>
+.a{opacity:0;animation:r 7s infinite}
+@keyframes r{0%{opacity:0;transform:translateX(-30px)}8%,88%{opacity:1;transform:none}100%{opacity:0}}
+.ln{transform-box:fill-box;transform-origin:left;animation:g 7s infinite}
+@keyframes g{0%{transform:scaleX(0)}15%,88%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.dot{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.3}}
+</style>
+<circle class="dot" cx="14" cy="34" r="6" fill="#f59e0b"/>
+<text class="m a" x="34" y="28" font-size="13" fill="#f59e0b" style="animation-delay:.1s">/01  ·  numbers don't lie</text>
+<text class="s a" x="32" y="66" font-size="38" fill="#fff" style="animation-delay:.25s">The receipts</text>
+<rect class="ln" x="32" y="78" width="840" height="2" rx="1" fill="#f59e0b" opacity=".55"/></svg>
