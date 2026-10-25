@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/><stop offset="1" stop-color="#fcd34d"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="40"/></filter>
+    <clipPath id="type"><rect x="40" y="150" width="0" height="60"><animate attributeName="width" from="0" to="620" begin="1.6s" dur="2.2s" fill="freeze" calcMode="linear"/></rect></clipPath>
+  </defs>
+  <style>
+    .mono{font-family:'JetBrains Mono',Consolas,monospace}
+    .serif{font-family:'Instrument Serif',Georgia,serif}
+    .l1{opacity:0;animation:rise 1s .2s forwards}
+    .tag{opacity:0;animation:rise 1s 4s forwards}
+    .chip{opacity:0;animation:rise .8s forwards}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <rect width="900" height="300" rx="18" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity=".55">
+    <circle r="90" fill="#f59e0b"><animate attributeName="cx" values="120;760;120" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="60;240;60" dur="11s" repeatCount="indefinite"/></circle>
+    <circle r="70" fill="#6366f1"><animate attributeName="cx" values="780;200;780" dur="17s" repeatCount="indefinite"/><animate attributeName="cy" values="250;40;250" dur="13s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect width="900" height="300" rx="18" fill="#0d1117" opacity=".45"/>
+  <text x="40" y="52" class="mono l1" font-size="14" fill="#9ca3af">~/shreyas $ cat draft.md</text>
+  <text x="40" y="115" class="serif l1" font-size="46" fill="#ffffff">You have the ideas.</text>
+  <g clip-path="url(#type)"><text x="40" y="200" class="serif" font-size="56" font-style="italic" fill="url(#gold)">I make people read them.</text></g>
+  <rect x="40" y="165" width="3" height="42" fill="#f59e0b" class="cur"><animate attributeName="x" from="40" to="660" begin="1.6s" dur="2.2s" fill="freeze"/></rect>
+  <text x="40" y="250" class="mono tag" font-size="15" fill="#d1d5db">Ghostwriter for tech founders  ·  AI engineer on the side</text>
+  <g class="mono" font-size="12" fill="#0d1117" font-weight="700">
+    <g class="chip" style="animation-delay:4.4s"><rect x="620" y="30" rx="12" width="110" height="24" fill="#f59e0b"/><text x="636" y="46">LinkedIn</text></g>
+    <g class="chip" style="animation-delay:4.7s"><rect x="740" y="30" rx="12" width="60" height="24" fill="#fcd34d"/><text x="756" y="46">X</text></g>
+    <g class="chip" style="animation-delay:5s"><rect x="810" y="30" rx="12" width="60" height="24" fill="#fde68a"/><text x="820" y="46">Medium</text></g>
+  </g>
+</svg>
